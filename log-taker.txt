@@ -47,3 +47,12 @@
 2/13/2025 | 11:43:57 AM | WARN | Retrying... (0 attempts left) 
 2/13/2025 | 11:44:01 AM | ERROR | Failed to get nonce after retries: Request failed with status code 502
 2/13/2025 | 11:44:01 AM | ERROR | Failed to retrieve nonce for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+2/13/2025 | 12:36:53 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/13/2025 | 12:36:53 PM | INFO | Start process for wallet 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+2/13/2025 | 12:37:54 PM | INFO | Trying To Login for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+2/13/2025 | 12:37:55 PM | INFO | Login successful... 
+2/13/2025 | 12:37:55 PM | INFO | Trying to check user info... 
+2/13/2025 | 12:37:55 PM | INFO | User ID: 103515880 | Twitter: @silviaa_kinley | Total Points: 72000 
+2/13/2025 | 12:37:55 PM | INFO | Trying to check user miner status... 
+2/13/2025 | 12:37:56 PM | INFO | Last mining time: 2/13/2025, 2:10:15 AM
+2/13/2025 | 12:37:56 PM | WARN | Mining already started, next mining time is: 2/14/2025, 2:10:15 AM
