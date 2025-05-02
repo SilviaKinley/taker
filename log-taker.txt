@@ -4362,3 +4362,15 @@
 5/1/2025 | 8:21:10 PM | INFO | Trying to check user miner status... 
 5/1/2025 | 8:21:10 PM | INFO | Last mining time: 5/1/2025, 1:16:09 AM
 5/1/2025 | 8:21:10 PM | WARN | Mining already started, next mining time is: 5/2/2025, 1:16:09 AM
+5/2/2025 | 1:42:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/2/2025 | 1:42:52 AM | INFO | Start process for wallet 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/2/2025 | 1:42:53 AM | INFO | Trying To Login for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/2/2025 | 1:42:53 AM | INFO | Login successful... 
+5/2/2025 | 1:42:53 AM | INFO | Trying to check user info... 
+5/2/2025 | 1:42:54 AM | INFO | User ID: 103515880 | Twitter: @silviaa_kinley | Total Points: 1706680 
+5/2/2025 | 1:42:54 AM | INFO | Trying to check user miner status... 
+5/2/2025 | 1:42:55 AM | INFO | Last mining time: 5/1/2025, 1:16:09 AM
+5/2/2025 | 1:42:55 AM | INFO | Trying to start Mining for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/2/2025 | 1:42:56 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/2/2025 | 1:42:56 AM | INFO | Trying to activate mining on-chain for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/2/2025 | 1:43:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa0fb2ff5bf02edd43f772060d6ea3197066de039b4958a149f911edb39862c7b 
