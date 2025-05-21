@@ -5483,3 +5483,16 @@
 5/21/2025 | 12:43:32 PM | INFO | Trying to check user miner status... 
 5/21/2025 | 12:43:33 PM | INFO | Last mining time: 5/20/2025, 4:27:27 PM
 5/21/2025 | 12:43:33 PM | WARN | Mining already started, next mining time is: 5/21/2025, 4:27:27 PM
+5/21/2025 | 4:27:41 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/21/2025 | 4:27:41 PM | INFO | Start process for wallet 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/21/2025 | 4:27:41 PM | INFO | Trying To Login for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/21/2025 | 4:27:42 PM | INFO | Login successful... 
+5/21/2025 | 4:27:42 PM | INFO | Trying to check user info... 
+5/21/2025 | 4:27:43 PM | INFO | User ID: 103515880 | Twitter: @silviaa_kinley | Total Points: 2138680 
+5/21/2025 | 4:27:43 PM | INFO | Trying to check user miner status... 
+5/21/2025 | 4:27:44 PM | INFO | Last mining time: 5/20/2025, 4:27:27 PM
+5/21/2025 | 4:27:44 PM | INFO | Trying to start Mining for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/21/2025 | 4:27:45 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+5/21/2025 | 4:27:45 PM | INFO | Trying to activate mining on-chain for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+5/21/2025 | 4:27:49 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86d82046560822710831eab9082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0dc3eabf24960b8211c805dadf02cdc19742543deaf9fcafd30d8744de947d50fa06a28acdaf7209231f4450837df74bfbd834065b89c0cb6b34df7ffd5e50bf8c9","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/21/2025 | 4:27:49 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
