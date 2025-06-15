@@ -6893,3 +6893,13 @@
 6/15/2025 | 4:30:21 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 6/15/2025 | 4:30:21 AM | INFO | Trying to activate mining on-chain for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
 6/15/2025 | 4:30:32 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0b1b4733fd05913fbff7bbbdc05d4efd37707458f1d856c8589fd8d5e2c6cd74 
+6/15/2025 | 8:25:31 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/15/2025 | 8:25:31 AM | INFO | Start process for wallet 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+6/15/2025 | 8:27:44 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/15/2025 | 8:27:44 AM | WARN | Retrying... (2 attempts left) 
+6/15/2025 | 8:30:03 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/15/2025 | 8:30:03 AM | WARN | Retrying... (1 attempts left) 
+6/15/2025 | 8:32:23 AM | ERROR | Failed to get nonce: connect ETIMEDOUT 101.47.181.18:443
+6/15/2025 | 8:32:23 AM | WARN | Retrying... (0 attempts left) 
+6/15/2025 | 8:34:42 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
+6/15/2025 | 8:34:42 AM | ERROR | Failed to retrieve nonce for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
