@@ -8027,3 +8027,15 @@
 7/5/2025 | 8:26:36 AM | INFO | Trying to activate mining on-chain for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
 7/5/2025 | 8:26:41 AM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86c820465818880831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec001a07b678a736064e255a4ec29f33fe422048ec8e7b63c3aa56ee0a163427106768ea011b1cd49e72f3216af985a800a84677eb9829b8eb5750148e6b7e2992ee059f0"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 7/5/2025 | 8:26:41 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+7/5/2025 | 12:40:11 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/5/2025 | 12:40:11 PM | INFO | Start process for wallet 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+7/5/2025 | 12:40:12 PM | INFO | Trying To Login for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+7/5/2025 | 12:40:13 PM | INFO | Login successful... 
+7/5/2025 | 12:40:13 PM | INFO | Trying to check user info... 
+7/5/2025 | 12:40:14 PM | INFO | User ID: 103515880 | Twitter: @silviaa_kinley | Total Points: 3122680 
+7/5/2025 | 12:40:14 PM | INFO | Trying to check user miner status... 
+7/5/2025 | 12:40:14 PM | INFO | Last mining time: 7/4/2025, 1:49:45 AM
+7/5/2025 | 12:40:14 PM | INFO | Trying to start Mining for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+7/5/2025 | 12:40:15 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+7/5/2025 | 12:40:15 PM | INFO | Trying to activate mining on-chain for wallet: 0x4964fFb1aa0c6d76440287042473b44e6445da51 
+7/5/2025 | 12:41:05 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0be44e2456e1bee68dbdd61a3bf1dad320e877affc60ec52bf08d09e342244aa 
